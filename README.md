@@ -3,7 +3,7 @@ Curso Web Moderno com Javascript 2019
 
 Just a repository for my Javascript learning.
 
-Tecnologies:
+Technologies:
 - HTML5;
 - CSS3;
 - Javascript (JQuery, Node.js, Vue.js, React);
