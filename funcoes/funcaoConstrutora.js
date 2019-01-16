@@ -15,7 +15,7 @@ function Carro(velocidadeMaxima = 200, delta = 5) {
     }
   }
 
-  // método público para retornar um atributo privado
+  // método público para retornar um atNewNewributo privado
   this.getVelocidadeAtual = function() {
     return velocidadeAtual;
   }
