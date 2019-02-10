@@ -40,3 +40,5 @@ delete carro.proprietario.condutores;
 delete carro.proprietario.endereco;
 delete carro.proprietario.calcularValorSeguro;
 console.log(carro);
+console.log(carro.condutores);
+console.log(carro.condutores.length); // acessar a propriedade de algo que está undefined gera erro.

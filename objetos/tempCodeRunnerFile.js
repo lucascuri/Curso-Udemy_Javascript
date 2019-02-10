@@ -1,2 +1,3 @@
-delete carro.proprietario.endereco;
-// delete carro.proprietario.calcularValorSeguro
+const a = 1;
+// const b = 2;
+// const c = 3;
