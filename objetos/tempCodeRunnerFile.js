@@ -1,3 +1,3 @@
-const a = 1;
-// const b = 2;
-// const c = 3;
+status() {
+    //     return `${this.modelo}: ${super.status()}`
+    // }
